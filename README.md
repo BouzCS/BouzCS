@@ -1,10 +1,10 @@
-<h1 align="center"> Hello, I'm Bouzmoul Med Amine </h1>
+<h1 align="center"> Hello, I'm Bouzmoul Med Amine <img src="https://img.icons8.com/color/48/000000/verified-badge.png"/></h1>
 
 <h3> 👨‍🎨: &nbsp;About Me </h3>
 
 
 - :heart: My favorite language: Py♥
-- 🌱 I’m currently learning: ML
+- 🌱 I’m currently learning: DL
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 
