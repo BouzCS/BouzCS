@@ -4,7 +4,7 @@
 
 
 - :heart: My favorite language: Py♥
-- 🌱 I’m currently learning: DL
+- 🌱 I’m currently learning: MLOPS
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 
